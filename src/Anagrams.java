@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Anagrams {
     static boolean isAnagrams(String a,String b){
+        // For main Coding
         a=a.toUpperCase();
         b=b.toUpperCase();
         boolean r=false;
