@@ -27,6 +27,7 @@ public class Anagrams {
         }return r;
     }
     public static void main(String args[]){
+        //Print Anagrams Or not
         Scanner sc=new Scanner(System.in);
         String a=sc.next();
         String b=sc.next();
